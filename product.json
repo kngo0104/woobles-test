@@ -1,0 +1,1335 @@
+{
+  "products": [
+    {
+      "id": 8445662920870,
+      "title": "Hooray for the Owl-edictorian Bundle",
+      "body_html": "<p>When it’s time to celebrate your favorite grad, this Hooray for the Owl-edictorian Bundle is the perfect way to say con-grad-ulations! Featuring Darwin the Owl—along with a Tiny Rolled Diploma, Tiny Graduation Cap, and Tiny Graduation Gown—it’s the owl-timate gift for Wooblers of any level.<br></p><p>In fact, with Beginner+ skills on the syllabus, even wooblin’ newbies are sure to ace everything with flying colors when it comes to those gown-tastic details. Plus with our super helpful step-by-step videos and Easy Peasy Yarn™, whoo-hoo could ask for more? So whether you’re a total fledgling or a crochet PhD, this bundle is a brilliant way to say Hooray for the Owl-edictorian, now and owl-ways!<br></p><p><strong>Can I really learn how to crochet from these kits?</strong><br></p><p>You bet - over 1,000,000 people have learned crochet with The Woobles, and you can be next! Just follow the step-by-step video tutorials that come with each kit. Our beginner kits also come pre-started to get you over the first hump.</p>",
+      "vendor": "Beginner+",
+      "product_type": "Beginner+",
+      "created_at": "2025-03-28T17:54:06-04:00",
+      "handle": "hooray-for-the-owl-edictorian-bundle",
+      "updated_at": "2025-04-04T15:40:29-04:00",
+      "published_at": "2025-04-02T10:45:03-04:00",
+      "template_suffix": "",
+      "published_scope": "web",
+      "tags": "Beginner or Beginner Plus, Beginner Plus, Beginner+, Not Collabs",
+      "variants": [
+        {
+          "id": 46256875274406,
+          "product_id": 8445662920870,
+          "title": "Default Title",
+          "price": "42.00",
+          "sku": "88WGG",
+          "position": 1,
+          "compare_at_price": "45.00",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-03-28T17:54:06-04:00",
+          "updated_at": "2025-04-04T15:40:29-04:00",
+          "taxable": true,
+          "barcode": null,
+          "grams": 176,
+          "image_id": null,
+          "weight": 6.2,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "USD",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 10733772701862,
+          "product_id": 8445662920870,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 42234646036646,
+        "product_id": 8445662920870,
+        "position": 1,
+        "created_at": "2025-04-01T20:01:43-04:00",
+        "updated_at": "2025-04-01T20:10:33-04:00",
+        "alt": null,
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/files/Hooray_for_the_Owl_Edictorian_Bundle_1.jpg?v=1743552633",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 8445650174118,
+      "title": "Darwin the Owl Crochet Kit",
+      "body_html": "<p><b>Meet Darwin the Owl</b><br>Ready for an absolute hoot of a kit? Then flutter on over to meet Darwin the Owl! With those sweet lil’ feathers and spectacular specs, this scholarly pal is a real Dar-winner.<br></p><p>Not only that, but as a Beginner+ kit, this feather-rific friend makes it easy for anyone to wooble straight to the head of the class. Plus no matter your level, our step-by-step videos will speed up your evolution into a more confident Woobler—especially with the help of our fowl-bulous Easy Peasy Yarn™. So grab your whoo-hook and get ready to fly high with this totally brilliant new bud!</p><p><strong>Can I really learn how to crochet from these kits?<br></strong>You bet - over 1,000,000 people have learned crochet with The Woobles, and you can be next! Just follow the step-by-step video tutorials that come with each learn-to-crochet kit. Our beginner kits also come pre-started to get you over the first hump.</p>",
+      "vendor": "Beginner+",
+      "product_type": "Beginner+",
+      "created_at": "2025-03-28T17:40:24-04:00",
+      "handle": "graduation-owl-crochet-kit",
+      "updated_at": "2025-04-04T15:40:56-04:00",
+      "published_at": "2025-04-02T10:45:02-04:00",
+      "template_suffix": "",
+      "published_scope": "web",
+      "tags": "Beginner or Beginner Plus, Beginner Plus, Beginner+, Featured, Not Collabs",
+      "variants": [
+        {
+          "id": 46256855318694,
+          "product_id": 8445650174118,
+          "title": "Default Title",
+          "price": "30.00",
+          "sku": "11WL",
+          "position": 2,
+          "compare_at_price": "",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-03-28T17:40:24-04:00",
+          "updated_at": "2025-04-04T15:40:56-04:00",
+          "taxable": true,
+          "barcode": null,
+          "grams": 108,
+          "image_id": null,
+          "weight": 3.8,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 10733759725734,
+          "product_id": 8445650174118,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 42181272109222,
+        "product_id": 8445650174118,
+        "position": 1,
+        "created_at": "2025-03-28T17:50:06-04:00",
+        "updated_at": "2025-04-01T20:10:33-04:00",
+        "alt": null,
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/files/DarwinTheOwlRetouched.jpg?v=1743552633",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 7739078148262,
+      "title": "Birds of a Feather Bundle",
+      "body_html": "<p>If you’re in the mood for some fowl-bulous new friends, then chick out our egg-cellent Birds of a Feather Bundle! We know you’ll soar to new heights with tweet little Kiki the Chick, woobly wittle Poquita Chickita, and wand-erful Albie the Phoenix—a truly egg-ceptional ensemble.</p><p>Because this beak-tacular bundle includes a range of kits from Beginner to Intermediate, it’s perfect for anyone who’s ready to take flight with some magical new skills. And with The Woobles Easy Peasy Yarn™ and step-by-step videos, you’ll have no problem lighting it up and welcoming these wing-derful new Woobles to the nest. So…what are you waiting for? Let’s flockin’ do this! </p><p><strong>Can I really learn how to crochet from these kits?<br></strong>You bet - over 1,000,000 people have learned crochet with The Woobles, and you can be next! Just follow the step-by-step video tutorials that come with each kit. Our beginner kits also come pre-started to get you over the first hump.</p>",
+      "vendor": "Beginner / Beginner+ / Intermediate",
+      "product_type": "Beginner / Beginner+ / Intermediate",
+      "created_at": "2023-05-19T14:52:16-04:00",
+      "handle": "birds-of-a-feather-bundle",
+      "updated_at": "2025-04-04T15:22:28-04:00",
+      "published_at": "2023-05-26T10:42:01-04:00",
+      "template_suffix": "",
+      "published_scope": "web",
+      "tags": "Beginner, Intermediate, Not Collabs",
+      "variants": [
+        {
+          "id": 44152470667430,
+          "product_id": 7739078148262,
+          "title": "Default Title",
+          "price": "60.00",
+          "sku": "88BOF",
+          "position": 1,
+          "compare_at_price": "75.00",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2023-05-19T14:52:16-04:00",
+          "updated_at": "2025-04-04T15:22:28-04:00",
+          "taxable": true,
+          "barcode": "",
+          "grams": 227,
+          "image_id": null,
+          "weight": 8,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "USD",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 9905681039526,
+          "product_id": 7739078148262,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 36240006447270,
+        "product_id": 7739078148262,
+        "position": 1,
+        "created_at": "2023-05-25T15:41:14-04:00",
+        "updated_at": "2023-05-25T15:41:15-04:00",
+        "alt": null,
+        "width": 2800,
+        "height": 2800,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/files/88BOF-1.jpg?v=1685043675",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 8231722746022,
+      "title": "Maeve the Duck Crochet Kit",
+      "body_html": "<p><b>Meet Maeve the Duck</b><br>For all you Wooblers out there looking for a fowl-bulous new kit, come chick out Maeve the Duck! Not only does she have a Maeve-lous personality, but she’s also super brainy, not to mention pretty duckin’ adorable.<br></p><p>This incredible gal includes a lot of cute lil’ details, but don’t let that ruffle your feathers—as a Beginner kit, she’s an egg-cellent choice for newbies. Plus our Easy Peasy Yarn™ and step-by-step videos make everything so simple that you’ll have the hen-tire thing done in no time. So grab your hook and get ready for a coop-tivating time as you bring magnificent Maeve to life!</p><p><strong>Can I really learn how to crochet from these kits?<br></strong>You bet - over 1,000,000 people have learned crochet with The Woobles, and you can be next! Just follow the step-by-step video tutorials that come with each learn-to-crochet kit. Our beginner kits also come pre-started to get you over the first hump.</p>",
+      "vendor": "Beginner",
+      "product_type": "Beginner",
+      "created_at": "2024-07-01T09:55:08-04:00",
+      "handle": "duck-crochet-kit",
+      "updated_at": "2025-04-04T15:27:45-04:00",
+      "published_at": "2024-07-17T10:45:02-04:00",
+      "template_suffix": "",
+      "published_scope": "web",
+      "tags": "Beginner, Beginner (Not Plus), Beginner or Beginner Plus, Not Collabs",
+      "variants": [
+        {
+          "id": 45621083865254,
+          "product_id": 8231722746022,
+          "title": "Default Title",
+          "price": "30.00",
+          "sku": "11DK-BR",
+          "position": 2,
+          "compare_at_price": "",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2024-07-01T09:55:08-04:00",
+          "updated_at": "2025-04-04T15:27:45-04:00",
+          "taxable": true,
+          "barcode": null,
+          "grams": 108,
+          "image_id": null,
+          "weight": 3.8,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 10474976182438,
+          "product_id": 8231722746022,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 39104041386150,
+        "product_id": 8231722746022,
+        "position": 1,
+        "created_at": "2024-07-10T12:41:30-04:00",
+        "updated_at": "2024-07-10T12:41:32-04:00",
+        "alt": null,
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/files/Maeve_The_Duck_Retouched.jpg?v=1720629692",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 8231731593382,
+      "title": "Stu the Goose Crochet Kit",
+      "body_html": "<p><b>Meet Stu the Goose</b><br>For Wooblers who appreciate the goofy side of life, come take a gander at Stu the Goose! Friendly and good-natured, he’s the epitome of a silly goose. Yet with his extended neck and snowy feathers, he’s also adorable enough to give you goosebumps.<br></p><p>As a Beginner+ kit, Stu is great for newbies, especially with the help of our Geese-y Peasy—we mean, Easy Peasy—Yarn™. Even if you have a tendency to get a lil’ loosey-goosey with the details, you’ll never feel lost or Stu-pid as long as you follow our simple step-by-step videos. So let’s dive right in and have a honkin’ good time!</p><p><strong>Can I really learn how to crochet from these kits?<br></strong>You bet - over 1,000,000 people have learned crochet with The Woobles, and you can be next! Just follow the step-by-step video tutorials that come with each learn-to-crochet kit. Our beginner kits also come pre-started to get you over the first hump.</p>",
+      "vendor": "Beginner+",
+      "product_type": "Beginner+",
+      "created_at": "2024-07-01T10:04:23-04:00",
+      "handle": "goose-crochet-kit",
+      "updated_at": "2025-04-04T15:28:54-04:00",
+      "published_at": "2024-07-17T10:45:11-04:00",
+      "template_suffix": "",
+      "published_scope": "web",
+      "tags": "Beginner or Beginner Plus, Beginner Plus, Beginner+, Not Collabs",
+      "variants": [
+        {
+          "id": 45621096284326,
+          "product_id": 8231731593382,
+          "title": "Default Title",
+          "price": "30.00",
+          "sku": "11GS",
+          "position": 2,
+          "compare_at_price": "",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2024-07-01T10:04:23-04:00",
+          "updated_at": "2025-04-04T15:28:54-04:00",
+          "taxable": true,
+          "barcode": null,
+          "grams": 108,
+          "image_id": null,
+          "weight": 3.8,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 10474985324710,
+          "product_id": 8231731593382,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 39104106102950,
+        "product_id": 8231731593382,
+        "position": 1,
+        "created_at": "2024-07-12T10:35:56-04:00",
+        "updated_at": "2024-07-12T10:35:57-04:00",
+        "alt": null,
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/files/Stu_The_Goose_Retouched.jpg?v=1720794957",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 5279841484966,
+      "title": "Pierre the Penguin Crochet Kit",
+      "body_html": "<p><strong>Meet Pierre the Penguin</strong><br>Maybe it’s because there’s just something about penguins. Maybe it’s because this penguin somehow embodies all that is woobly. But if you find yourself irresistibly drawn to this waddliest of Woobles, you’re not alone. In fact, he’s the most popular pal on the block.</p><p>He and his buddies have come to life in the hands of thousands of complete beginners. And with the help of our tried-and-true instructions, he’ll soon be sliding his way straight into yours as well!</p><p><strong>Can I really learn how to crochet from these kits?<br></strong>You bet - over 1,000,000 people have learned crochet with The Woobles, and you can be next! Just follow the step-by-step video tutorials that come with each learn-to-crochet kit. Our beginner kits also come pre-started to get you over the first hump.</p>",
+      "vendor": "Beginner",
+      "product_type": "Beginner Kit",
+      "created_at": "2020-06-02T11:48:03-04:00",
+      "handle": "penguin-crochet-kit",
+      "updated_at": "2025-04-04T15:29:38-04:00",
+      "published_at": "2022-11-24T10:11:29-05:00",
+      "template_suffix": "",
+      "published_scope": "web",
+      "tags": "Beginner, Beginner (Not Plus), Beginner or Beginner Plus, Not Collabs",
+      "variants": [
+        {
+          "id": 34547831537830,
+          "product_id": 5279841484966,
+          "title": "Default Title",
+          "price": "30.00",
+          "sku": "11PG",
+          "position": 1,
+          "compare_at_price": "",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2020-06-02T11:48:03-04:00",
+          "updated_at": "2025-04-04T15:29:38-04:00",
+          "taxable": true,
+          "barcode": "",
+          "grams": 108,
+          "image_id": null,
+          "weight": 3.8,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 10604307218598,
+          "product_id": 5279841484966,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 35018324410534,
+        "product_id": 5279841484966,
+        "position": 1,
+        "created_at": "2022-09-25T20:03:48-04:00",
+        "updated_at": "2022-09-25T20:04:45-04:00",
+        "alt": null,
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/products/pierre_straight_40851ef3-0c8a-4f01-a3eb-1a55ef7c802a.jpg?v=1664150685",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 6954268754086,
+      "title": "Pierre the Penguin Purple Crochet Kit",
+      "body_html": "<p>Now you can get our most popular beginner crochet kit - Pierre the Penguin - in purple! While the color of his feathers have changed, he's still the same beginner-friendly penguin on the inside. These kits come with everything you need to learn how to crochet - step-by-step videos, just the right amount of materials, and a pre-started piece so you can jump right into learning the basics.</p><p><strong>Can I really learn how to crochet from these kits?<br></strong>You bet - over 1,000,000 people have learned crochet with The Woobles, and you can be next! Just follow the step-by-step video tutorials that come with each learn-to-crochet kit. Our beginner kits also come pre-started to get you over the first hump.</p>",
+      "vendor": "Beginner",
+      "product_type": "Beginner Kit",
+      "created_at": "2021-08-06T17:16:53-04:00",
+      "handle": "limited-edition-penguin-crochet-kit",
+      "updated_at": "2025-04-04T15:30:07-04:00",
+      "published_at": "2021-11-10T03:03:44-05:00",
+      "template_suffix": "klaviyo-stock",
+      "published_scope": "web",
+      "tags": "Beginner, Beginner (Not Plus), Beginner or Beginner Plus, Not Collabs",
+      "variants": [
+        {
+          "id": 40888744444070,
+          "product_id": 6954268754086,
+          "title": "Default Title",
+          "price": "30.00",
+          "sku": "11PG-PUL",
+          "position": 1,
+          "compare_at_price": "",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2021-08-06T17:18:20-04:00",
+          "updated_at": "2025-04-04T15:30:07-04:00",
+          "taxable": true,
+          "barcode": "",
+          "grams": 108,
+          "image_id": null,
+          "weight": 3.8,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 10681616138406,
+          "product_id": 6954268754086,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 35971960471718,
+        "product_id": 6954268754086,
+        "position": 1,
+        "created_at": "2023-02-23T12:32:36-05:00",
+        "updated_at": "2023-02-23T12:32:39-05:00",
+        "alt": null,
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/products/penguin_purple.jpg?v=1677173559",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 7718176817318,
+      "title": "Albie the Phoenix Crochet Kit",
+      "body_html": "<p><strong>Meet Albie the Phoenix<br></strong>Hold on to yer (sorting) hats, ’cause another fantastic Wooble is coming yer way! Though Albie the Phoenix’s tail feathers haven’t ended up in any wands (that we know of), we still think he’s pretty wand-erful. In fact, we light up whenever he’s around.</p><p> While all those fiery feathers make this an intermediate kit, our step-by-step videos make it easy to spark up your skills—plus we’re always here to answer any burning questions you may have. Not only that, but The Woobles Easy Peasy Yarn™ makes seeing stitches so simple, you’ll swear it’s magic. So get ready to bring the heat as you bring this fant-ash-tic new friend to life!</p><p><strong>Can I really learn how to crochet from these kits?<br></strong>You bet - over 1,000,000 people have learned crochet with The Woobles, and you can be next! Just follow the step-by-step video tutorials that come with each learn-to-crochet kit. Intermediate kits still come with our step-by-step video instructions, but only for techniques you might not’ve encountered in a beginner kit.</p>",
+      "vendor": "Intermediate",
+      "product_type": "Intermediate Kit",
+      "created_at": "2023-04-07T10:39:57-04:00",
+      "handle": "phoenix-crochet-kit",
+      "updated_at": "2025-04-04T15:30:35-04:00",
+      "published_at": "2023-04-14T10:45:02-04:00",
+      "template_suffix": "klaviyo-stock",
+      "published_scope": "web",
+      "tags": "Intermediate, Not Collabs",
+      "variants": [
+        {
+          "id": 44054249275558,
+          "product_id": 7718176817318,
+          "title": "Default Title",
+          "price": "40.00",
+          "sku": "22PHX",
+          "position": 1,
+          "compare_at_price": "",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2023-04-07T10:39:57-04:00",
+          "updated_at": "2025-04-04T15:30:35-04:00",
+          "taxable": true,
+          "barcode": null,
+          "grams": 108,
+          "image_id": null,
+          "weight": 3.8,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 10714438893734,
+          "product_id": 7718176817318,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 36132693868710,
+        "product_id": 7718176817318,
+        "position": 1,
+        "created_at": "2023-04-23T21:42:30-04:00",
+        "updated_at": "2023-10-04T13:07:20-04:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1400,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/products/22PHX-CA-1-web.jpg?v=1696439240",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 5279841779878,
+      "title": "Kiki the Chick Crochet Kit",
+      "body_html": "<p><strong>Meet Kiki the Chick</strong><br>Think of this wee Wooble as the minimalist of the bunch. Not only is she the smallest, but she’s also the least cluttered, with every one of her parts and colors sparking joy. It’s like she was tailor-made for beginners.</p><p>As in, “I’ve never held a crochet hook before” beginners. Or even, “Wait, you crochet with a hook?” beginners. But with this super helpful kit, you’ll have an adorable chick nestling in the palm of your hand in no time.</p><p><strong>Can I really learn how to crochet from these kits?<br></strong>You bet - over 1,000,000 people have learned crochet with The Woobles, and you can be next! Just follow the step-by-step video tutorials that come with each learn-to-crochet kit. Our beginner kits also come pre-started to get you over the first hump.</p>",
+      "vendor": "Beginner",
+      "product_type": "Beginner Kit",
+      "created_at": "2020-06-02T11:48:06-04:00",
+      "handle": "chick-crochet-kit",
+      "updated_at": "2025-04-04T15:31:00-04:00",
+      "published_at": "2023-02-21T21:06:55-05:00",
+      "template_suffix": "",
+      "published_scope": "web",
+      "tags": "Beginner, Beginner (Not Plus), Beginner or Beginner Plus, Not Collabs",
+      "variants": [
+        {
+          "id": 34547832815782,
+          "product_id": 5279841779878,
+          "title": "Default Title",
+          "price": "30.00",
+          "sku": "11CK",
+          "position": 1,
+          "compare_at_price": "",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2020-06-02T11:48:06-04:00",
+          "updated_at": "2025-04-04T15:31:00-04:00",
+          "taxable": true,
+          "barcode": "",
+          "grams": 108,
+          "image_id": null,
+          "weight": 3.8,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 10604305154214,
+          "product_id": 5279841779878,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 35018316447910,
+        "product_id": 5279841779878,
+        "position": 1,
+        "created_at": "2022-09-25T20:01:37-04:00",
+        "updated_at": "2022-09-25T20:01:59-04:00",
+        "alt": null,
+        "width": 3000,
+        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/products/kiki_straight_ab4ae105-4d87-4c9e-866a-ea411377d6fb.jpg?v=1664150519",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 7369926213798,
+      "title": "Le Petit Pierre Accessory Kit",
+      "body_html": "<p>Le Petit Pierre is the perfect Wooble for your Wooble. In fact, he embodies all that is wee and woobly. Like his role model Pierre the Penguin, he too is made with The Woobles Easy Peasy Yarn™. And at about half the height of a beginner Wooble, he only takes a fraction of the time to complete!</p><p>If this is your first time crocheting, get a beginner learn-to-crochet kit instead. Accessory kits are <strong>not</strong> designed to teach you how to crochet.</p>",
+      "vendor": "Accessory",
+      "product_type": "Accessory",
+      "created_at": "2022-04-26T23:52:41-04:00",
+      "handle": "le-petit-pierre",
+      "updated_at": "2025-04-04T15:31:29-04:00",
+      "published_at": "2023-02-13T22:14:41-05:00",
+      "template_suffix": "klaviyo-stock",
+      "published_scope": "web",
+      "tags": "Not Collabs",
+      "variants": [
+        {
+          "id": 42667816845478,
+          "product_id": 7369926213798,
+          "title": "Default Title",
+          "price": "5.00",
+          "sku": "99LPP",
+          "position": 1,
+          "compare_at_price": "",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2022-04-26T23:52:41-04:00",
+          "updated_at": "2025-04-04T15:31:29-04:00",
+          "taxable": true,
+          "barcode": "",
+          "grams": 23,
+          "image_id": null,
+          "weight": 0.8,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 9475047260326,
+          "product_id": 7369926213798,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 38549978906790,
+        "product_id": 7369926213798,
+        "position": 1,
+        "created_at": "2024-05-07T14:21:25-04:00",
+        "updated_at": "2024-05-07T14:21:27-04:00",
+        "alt": null,
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/files/99LPP-LePetitPierre-FW-YOT1-WEB.jpg?v=1715106087",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 7711003705510,
+      "title": "Poquita Chickita Accessory Kit",
+      "body_html": "<p>Come on over and chick out the teeniest bird on the block: Poquita Chickita (it’s so nice to meet ya)! She may be freshly hatched (her birthday is March 9), but she already knows exactly what it takes to have a very hoppy Easter. Plus she’s so cheepin’ cute that we promise she’ll lift even the fowl-est of spirits. </p><p>In fact, we’re sure that this chic little chick will make your heart soar. And though her wittle wings use the slip stitch join, there’s no need to chicken out—just grab some The Woobles Easy Peasy Yarn™ and follow our step-by-step videos to have the hen-tire thing done in no time!.</p><p>If this is your first time crocheting, start with a beginner learn-to-crochet kit instead. Accessory kits are <strong>not</strong> designed to teach you how to crochet.</p>",
+      "vendor": "Accessory",
+      "product_type": "Accessory",
+      "created_at": "2023-03-23T18:03:49-04:00",
+      "handle": "poquita-chickita",
+      "updated_at": "2025-04-04T15:31:55-04:00",
+      "published_at": "2023-03-26T10:38:07-04:00",
+      "template_suffix": "",
+      "published_scope": "web",
+      "tags": "Not Collabs",
+      "variants": [
+        {
+          "id": 44028387754150,
+          "product_id": 7711003705510,
+          "title": "Default Title",
+          "price": "5.00",
+          "sku": "99TTC",
+          "position": 1,
+          "compare_at_price": "",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2023-03-23T18:03:49-04:00",
+          "updated_at": "2025-04-04T15:31:55-04:00",
+          "taxable": true,
+          "barcode": "",
+          "grams": 11,
+          "image_id": null,
+          "weight": 0.4,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 9873865343142,
+          "product_id": 7711003705510,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 36054281224358,
+        "product_id": 7711003705510,
+        "position": 1,
+        "created_at": "2023-03-24T13:52:26-04:00",
+        "updated_at": "2023-03-24T13:52:27-04:00",
+        "alt": null,
+        "width": 1400,
+        "height": 1400,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/products/99TTC-PF-web.jpg?v=1679680347",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 7803554660518,
+      "title": "Woodstock Crochet Kit",
+      "body_html": "<p><strong>Meet Woodstock<br></strong>Calling all Peanuts lovers—prepare to have your hearts set aflutter by woobly lil’ Woodstock! Whether he’s filling in as Snoopy’s secretary or tossing around the football, he’s always the ultimate wingman. And though he sometimes ends up flying upside down, our woobly world is always right side up when he’s around.<br><br>Fiercely loyal yet tweetly innocent, Woodstock is truly an egg-cellent friend. Plus as a Beginner+ kit, he’ll also help take your skills to the nest level. Don’t worry, though—with The Woobles Easy Peasy Yarn™ and step-by-step videos, you’ll soar through even the trickier bits with absolutely no problem. So get ready to grab your hook and give a big woobly welcome to wing-credible Woodstock!<br><br>© 2023 Peanuts<br></p>",
+      "vendor": "Beginner+",
+      "product_type": "Beginner Kit",
+      "created_at": "2023-10-03T08:27:00-04:00",
+      "handle": "woodstock-crochet-kit",
+      "updated_at": "2025-04-04T15:32:17-04:00",
+      "published_at": "2023-11-24T08:50:05-05:00",
+      "template_suffix": "klaviyo-stock",
+      "published_scope": "web",
+      "tags": "Beginner or Beginner Plus, Beginner Plus, Beginner+, Collabs, Peanuts",
+      "variants": [
+        {
+          "id": 44453764923558,
+          "product_id": 7803554660518,
+          "title": "Default Title",
+          "price": "40.00",
+          "sku": "33WS",
+          "position": 1,
+          "compare_at_price": "40.00",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2023-10-03T08:27:00-04:00",
+          "updated_at": "2025-04-04T15:32:17-04:00",
+          "taxable": true,
+          "barcode": "",
+          "grams": 108,
+          "image_id": null,
+          "weight": 3.8,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "USD",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 9977970720934,
+          "product_id": 7803554660518,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 37024530006182,
+        "product_id": 7803554660518,
+        "position": 1,
+        "created_at": "2023-11-13T15:46:53-05:00",
+        "updated_at": "2023-11-13T15:46:55-05:00",
+        "alt": null,
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/files/33WS-Woodstock-Side-CT4-RET_1.jpg?v=1699908415",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 7802463977638,
+      "title": "Tiny Hedwig™ Accessory Kit",
+      "body_html": "<p>Want a Wooble whoo-hoo is intelligent, loyal, and completely fowl-bulous? Then this Hedwig inspired kit may very well be owl you’ll ever need! Not only are her snowy feathers totally swoop-erb, but her steadfast nature is also enchantingly extraordinary.</p><p>As a Beginner+ kit, she may have a few tricks up her sleeve—er, under her wing—but with The Woobles Easy Peasy Yarn™, you’ll owl-ways avoid any bothersome snags. Plus our super helpful videos will guide you through each step so you won’t have to wing it. In fact, we’re talon you that bringing this wand-erful Wooble to life will be a total hoot, so get ready to soar to new heights with your brilliant new bud.</p><p>© &amp; ™ WBEI. Publishing Rights © JKR.</p><p>If this is your first time crocheting, start with a beginner learn-to-crochet kit instead. Accessory kits are <strong>not</strong> designed to teach you how to crochet.</p>",
+      "vendor": "Accessory",
+      "product_type": "Accessory",
+      "created_at": "2023-10-02T10:04:44-04:00",
+      "handle": "hedwigac-kit",
+      "updated_at": "2025-04-04T15:37:21-04:00",
+      "published_at": "2023-11-10T12:00:02-05:00",
+      "template_suffix": "",
+      "published_scope": "web",
+      "tags": "Collabs, Harry Potter",
+      "variants": [
+        {
+          "id": 44450601402534,
+          "product_id": 7802463977638,
+          "title": "Default Title",
+          "price": "7.00",
+          "sku": "93HDW",
+          "position": 1,
+          "compare_at_price": "",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2023-10-02T10:04:44-04:00",
+          "updated_at": "2025-04-04T15:37:21-04:00",
+          "taxable": true,
+          "barcode": null,
+          "grams": 23,
+          "image_id": null,
+          "weight": 0.8,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 9976815517862,
+          "product_id": 7802463977638,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 36975099936934,
+        "product_id": 7802463977638,
+        "position": 1,
+        "created_at": "2023-11-03T10:27:03-04:00",
+        "updated_at": "2023-11-03T10:27:05-04:00",
+        "alt": null,
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/files/93HDW-Hedwig-FW-RWHue-RET_2_24d61449-c8c8-4fff-bd7f-2b32684b689f.jpg?v=1699021625",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 7802461257894,
+      "title": "Tiny Fawkes™ Accessory Kit",
+      "body_html": "<p>Need a little something to light up your day? Then give a warm, woobly welcome to Fawkes the Phoenix! Not only is his fiery hue bewitching to behold, but his spark-ling personality makes him truly wand-erful to have around.</p><p>With The Woobles Easy Peasy Yarn™ and magically helpful videos, you’ll have no problem bringing the heat to every step of this Beginner+ kit. And even if you do run into a few snarls or snags, we’re always here to answer any burning questions and help you rise from the ashes. So get ready to wooble your way to experience the magic as you bring this fant-ash-tically feathery friend to life!</p><p>© &amp; ™ WBEI. Publishing Rights © JKR.</p><p>If this is your first time crocheting, start with a beginner learn-to-crochet kit instead. Accessory kits are <strong>not</strong> designed to teach you how to crochet.</p>",
+      "vendor": "Accessory",
+      "product_type": "Accessory",
+      "created_at": "2023-10-02T10:01:30-04:00",
+      "handle": "fawkesac-kit",
+      "updated_at": "2025-04-04T15:37:49-04:00",
+      "published_at": "2023-11-10T12:00:03-05:00",
+      "template_suffix": "",
+      "published_scope": "web",
+      "tags": "Collabs, Harry Potter",
+      "variants": [
+        {
+          "id": 44450597503142,
+          "product_id": 7802461257894,
+          "title": "Default Title",
+          "price": "7.00",
+          "sku": "93FKS",
+          "position": 1,
+          "compare_at_price": "",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2023-10-02T10:01:30-04:00",
+          "updated_at": "2025-04-04T15:37:49-04:00",
+          "taxable": true,
+          "barcode": null,
+          "grams": 23,
+          "image_id": null,
+          "weight": 0.8,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 9976812765350,
+          "product_id": 7802461257894,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 36975107801254,
+        "product_id": 7802461257894,
+        "position": 1,
+        "created_at": "2023-11-03T10:40:35-04:00",
+        "updated_at": "2023-11-03T10:40:36-04:00",
+        "alt": null,
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/files/93FKS-Fawkes-FW-VT1-RET_2_ad49e641-21ee-4fdd-b98f-addcdc1a3638.jpg?v=1699022436",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 7289589596326,
+      "title": "Andy the Owl Crochet Kit",
+      "body_html": "<p><strong>Meet Andy the Owl<br></strong>Look whoo-hoo we have here—it’s Andy the Owl! Though his snowy feathers and fowl-bulous scarf make up the ultimate winter ensemble, he actually prefers cozying up indoors with a piping hot cuppa and the magic of a good book.<</p><p>With our step-by-step video tutorials, there’s no need to wing it—owl you need is the pre-started piece from your kit, and you’ll soon be bringing Andy’s swoop-erb feathers and awesomely angled eyebrows to life. So get ready to snuggle up on all those cold, blustery days…we’re talon you, it’s gonna be a hoot!</p>",
+      "vendor": "Beginner+",
+      "product_type": "Beginner Kit",
+      "created_at": "2022-02-16T21:55:34-05:00",
+      "handle": "owl-crochet-kit",
+      "updated_at": "2025-04-04T15:38:14-04:00",
+      "published_at": "2023-02-13T22:10:18-05:00",
+      "template_suffix": "klaviyo-stock",
+      "published_scope": "web",
+      "tags": "Beginner or Beginner Plus, Beginner Plus, Beginner+, Not Collabs",
+      "variants": [
+        {
+          "id": 42277222449318,
+          "product_id": 7289589596326,
+          "title": "Default Title",
+          "price": "30.00",
+          "sku": "11OW",
+          "position": 1,
+          "compare_at_price": "",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2022-02-16T21:55:34-05:00",
+          "updated_at": "2025-04-04T15:38:14-04:00",
+          "taxable": true,
+          "barcode": "",
+          "grams": 108,
+          "image_id": null,
+          "weight": 3.8,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 10528827113638,
+          "product_id": 7289589596326,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 35971950805158,
+        "product_id": 7289589596326,
+        "position": 1,
+        "created_at": "2023-02-23T12:29:49-05:00",
+        "updated_at": "2023-02-23T12:29:54-05:00",
+        "alt": null,
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/products/owl_1.jpg?v=1677173394",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 8231733330086,
+      "title": "Duck, Duck, Goose Bundle",
+      "body_html": "<p>Ready for a rousing round of Duck, Duck, Goose? You bet your tail feathers you are—especially once you chick out this fowl-bulous new bundle! Maeve is the brains of the operation, of course, while Reese could charm the plumes off absolutely anyone. And silly Stu goes around giving everyone his version of fist bumps: goosebumps! Together, this egg-ceptional trio is sure to have you honkin’ with happiness.</p><p>Even with all their feather-rific details, these Beginner kits are perfect for wooblin’ newbies, which we think is a pretty big duckin’ deal. Just grab some Easy Peasy Yarn™ and follow our spec-quack-ular step-by-step videos so that you’ll never have to wing it. In fact, it’ll all go so swimmingly that you’ll be done with the hen-tire bundle before you know it. So fluff those feathers, and away we go: Duck…duck…goose!</p>",
+      "vendor": "Beginner / Beginner+",
+      "product_type": "Beginner / Beginner+",
+      "created_at": "2024-07-01T10:06:13-04:00",
+      "handle": "duck-duck-goose-bundle",
+      "updated_at": "2025-04-04T15:38:38-04:00",
+      "published_at": "2024-07-17T10:45:05-04:00",
+      "template_suffix": "",
+      "published_scope": "web",
+      "tags": "Not Collabs",
+      "variants": [
+        {
+          "id": 45621098250406,
+          "product_id": 8231733330086,
+          "title": "Default Title",
+          "price": "75.00",
+          "sku": "88DDG",
+          "position": 1,
+          "compare_at_price": "90.00",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2024-07-01T10:06:13-04:00",
+          "updated_at": "2025-04-04T15:38:38-04:00",
+          "taxable": true,
+          "barcode": null,
+          "grams": 323,
+          "image_id": null,
+          "weight": 11.4,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "USD",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 10474987061414,
+          "product_id": 8231733330086,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 39104187531430,
+        "product_id": 8231733330086,
+        "position": 1,
+        "created_at": "2024-07-12T10:46:08-04:00",
+        "updated_at": "2024-07-12T10:46:10-04:00",
+        "alt": null,
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/files/DuckDuckGooseBP12.jpg?v=1720795570",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 8231726579878,
+      "title": "Reese the Mallard Crochet Kit",
+      "body_html": "<p><b>Meet Reese the Mallard</b><br>If you’re looking for a spec-quack-ular new mate, adorable Reese the Mallard is sure to fit the bill! Charming and kind with a wicked sense of humor, he’s the perfect pal whether you’re all in your feelings—or just don’t give a duck.<br></p><p>Even better, this waddly Wooble is ideal for newbies, using Beginner techniques that pair perfectly with our Easy Peasy Yarn™ and step-by-step videos. So grab that hook and get ready for a quack-nificent time, ’cause you and this delightful drake are about to have the time of your duckin’ lives!</p><p><strong>Can I really learn how to crochet from these kits?<br></strong>You bet - over 1,000,000 people have learned crochet with The Woobles, and you can be next! Just follow the step-by-step video tutorials that come with each learn-to-crochet kit. Our beginner kits also come pre-started to get you over the first hump.</p>",
+      "vendor": "Beginner",
+      "product_type": "Beginner Kit",
+      "created_at": "2024-07-01T09:59:07-04:00",
+      "handle": "mallard-crochet-kit",
+      "updated_at": "2025-04-04T15:39:02-04:00",
+      "published_at": "2024-07-17T10:45:03-04:00",
+      "template_suffix": "",
+      "published_scope": "web",
+      "tags": "Beginner, Beginner (Not Plus), Beginner or Beginner Plus, Not Collabs",
+      "variants": [
+        {
+          "id": 45621089239206,
+          "product_id": 8231726579878,
+          "title": "Default Title",
+          "price": "30.00",
+          "sku": "11DK-GN",
+          "position": 2,
+          "compare_at_price": "",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2024-07-01T09:59:07-04:00",
+          "updated_at": "2025-04-04T15:39:02-04:00",
+          "taxable": true,
+          "barcode": null,
+          "grams": 108,
+          "image_id": null,
+          "weight": 3.8,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 10474980147366,
+          "product_id": 8231726579878,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 39104157253798,
+        "product_id": 8231726579878,
+        "position": 1,
+        "created_at": "2024-07-12T10:42:30-04:00",
+        "updated_at": "2024-07-12T10:42:31-04:00",
+        "alt": null,
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/files/Reese_The_Mallard_YOT1_RET_1.jpg?v=1720795351",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 7907242573990,
+      "title": "Chilling with the Champs Bundle",
+      "body_html": "<p>After winning it all, there’s no better way to relax than with this Chillin’ with the Champs Bundle! Pairing Pierre the Penguin with a Tiny Football and Tiny Trophy, this prize-winning bundle is the coolest combo around.<br><br>As Beginner kits, Pierre and his woobly lil’ football are absolutely perfect for rookies. And while that adorable trophy is Beginner+, our Easy Peasy Yarn™ and step-by-step videos make everything so penguin-credibly simple that you’ll soon be slidin’ straight to the end zone. So grab your hook and practice your touchdown dance, ’cause you’ll be kickin’ back and Chillin’ with the Champs in no time!</p><p><strong>Can I really learn how to crochet from these kits?<br></strong>You bet - over 1,000,000 people have learned crochet with The Woobles, and you can be next! Just follow the step-by-step video tutorials that come with each kit. Our beginner kits also come pre-started to get you over the first hump.</p>",
+      "vendor": "Beginner / Beginner+",
+      "product_type": "Beginner / Beginner+",
+      "created_at": "2024-01-18T08:11:33-05:00",
+      "handle": "chillin-with-the-champs-bundle",
+      "updated_at": "2025-04-04T15:39:30-04:00",
+      "published_at": "2024-02-02T09:45:07-05:00",
+      "template_suffix": "",
+      "published_scope": "web",
+      "tags": "Beginner or Beginner Plus, Beginner Plus, Beginner+, Not Collabs",
+      "variants": [
+        {
+          "id": 44732331655334,
+          "product_id": 7907242573990,
+          "title": "Default Title",
+          "price": "35.00",
+          "sku": "88FBT-PG",
+          "position": 1,
+          "compare_at_price": "40.00",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2024-01-18T08:11:33-05:00",
+          "updated_at": "2025-04-04T15:39:30-04:00",
+          "taxable": true,
+          "barcode": null,
+          "grams": 153,
+          "image_id": null,
+          "weight": 5.4,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "USD",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 10096694788262,
+          "product_id": 7907242573990,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 37725086220454,
+        "product_id": 7907242573990,
+        "position": 1,
+        "created_at": "2024-02-19T10:45:31-05:00",
+        "updated_at": "2024-02-19T10:45:50-05:00",
+        "alt": null,
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/files/88FBT-PG-Bundle-RVP13-WEB.jpg?v=1708357550",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 7889962336422,
+      "title": "Pierre the Penguin Pastel Crochet Kit",
+      "body_html": "<p><strong>Meet Pastel Pierre the Penguin<br></strong>We have to admit that as our first-ever Wooble, Pierre the Penguin holds a special place in our hearts. So we’re always super excited whenever he gets to show off a fun new look. With his latest rainbow-lievable threads, we think you’ll agree that this woobly waddler is absolutely on point in pastel! </p><p>Sliding in as one of our most newbie-friendly kits ever, this colorful lil’ guy is pastel-utely perfect for beginners. Even if you’ve never held a crochet hook before, you should have snow problems at all—especially since you’ll be using our Easy Peasy Yarn™ and following our super helpful step-by-step videos. So what are you waiting for? Let’s dive in and brrr-ing this brrr-illiant new bud to life!<br></p><p><strong>Can I really learn how to crochet from these kits?<br></strong>You bet - over 1,000,000 people have learned crochet with The Woobles, and you can be next! Just follow the step-by-step video tutorials that come with each learn-to-crochet kit. Our beginner kits also come pre-started to get you over the first hump.</p>",
+      "vendor": "Beginner",
+      "product_type": "Beginner Kit",
+      "created_at": "2023-12-26T12:45:17-05:00",
+      "handle": "pastel-penguin-crochet-kit",
+      "updated_at": "2025-04-04T15:39:50-04:00",
+      "published_at": "2024-01-26T10:45:09-05:00",
+      "template_suffix": "klaviyo-stock",
+      "published_scope": "web",
+      "tags": "Beginner, Beginner (Not Plus), Beginner or Beginner Plus, Not Collabs",
+      "variants": [
+        {
+          "id": 44680459419814,
+          "product_id": 7889962336422,
+          "title": "Default Title",
+          "price": "30.00",
+          "sku": "11PG-PST",
+          "position": 1,
+          "compare_at_price": "",
+          "fulfillment_service": "manual",
+          "inventory_management": "shopify",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2023-12-26T12:45:17-05:00",
+          "updated_at": "2025-04-04T15:39:50-04:00",
+          "taxable": true,
+          "barcode": "",
+          "grams": 108,
+          "image_id": null,
+          "weight": 3.8,
+          "weight_unit": "oz",
+          "requires_shipping": true,
+          "quantity_rule": {
+            "min": 1,
+            "max": null,
+            "increment": 1
+          },
+          "price_currency": "USD",
+          "compare_at_price_currency": "",
+          "quantity_price_breaks": []
+        }
+      ],
+      "options": [
+        {
+          "id": 10468572659878,
+          "product_id": 7889962336422,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "image": {
+        "id": 37537562427558,
+        "product_id": 7889962336422,
+        "position": 1,
+        "created_at": "2024-01-24T10:27:13-05:00",
+        "updated_at": "2024-01-24T10:27:16-05:00",
+        "alt": null,
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0400/0904/0038/files/11PG-PST-PastelPenguin-FW-CT4-RET.jpg?v=1706110036",
+        "variant_ids": []
+      }
+    }
+  ]
+}
+
